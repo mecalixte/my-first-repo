@@ -1,3 +1,7 @@
 i love devops
+<<<<<<< HEAD
 miami
+=======
+haiti
+>>>>>>> marie-branch
 i love money
